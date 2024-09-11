@@ -1,4 +1,4 @@
-# instructions on how to run the project.
+# Instructions on how to run the project.
 
 
 This project is using FluidX3D create by Dr. Moritz Lehmann. 
